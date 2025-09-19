@@ -1,0 +1,6 @@
+
+{
+    // Add any Java-only VS Code settings here
+    "files.autoSave": "afterDelay",
+    "java.configuration.checkProjectSettingsExclusions": false
+}

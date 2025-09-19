@@ -1,0 +1,11 @@
+{
+    "version": 4,
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug current Java file",
+            "request": "launch",
+            "mainClass": "${fileBasenameNoExtension}"
+        }
+    ]
+}

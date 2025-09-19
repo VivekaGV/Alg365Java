@@ -1,0 +1,91 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Loop2",
+      "request": "launch",
+      "mainClass": "Loop2",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "Applicatiuon",
+      "request": "launch",
+      "mainClass": "Interfaceoops.Applicatiuon",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "Application",
+      "request": "launch",
+      "mainClass": "AdvanceOOPS.Application",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "Application",
+      "request": "launch",
+      "mainClass": "OOPs.Application",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "BasicPrograms3",
+      "request": "launch",
+      "mainClass": "BasicPrograms3",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "BasicPrograms2",
+      "request": "launch",
+      "mainClass": "BasicPrograms2",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "Forloop",
+      "request": "launch",
+      "mainClass": "Forloop",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "BasicPrograms1",
+      "request": "launch",
+      "mainClass": "BasicPrograms1",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "BasicPrograms",
+      "request": "launch",
+      "mainClass": "BasicPrograms",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "Sumoftwonumbers",
+      "request": "launch",
+      "mainClass": "Sumoftwonumbers",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "Recursion",
+      "request": "launch",
+      "mainClass": "Recursion",
+      "projectName": "Alg365Java_adcad1a"
+    },
+    {
+      "type": "java",
+      "name": "Debug current file",
+      "request": "launch",
+      "mainClass": "${file}",
+      "console": "integratedTerminal",
+      "args": [],
+      "vmArgs": ""
+    }
+  ]
+}
